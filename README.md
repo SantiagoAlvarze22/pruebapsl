@@ -16,11 +16,25 @@ PSL FullStack TEST
 * [cors](https://www.npmjs.com/package/cors) - cors - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 * [morgan](https://www.npmjs.com/package/morgan) - morgan - HTTP request logger middleware for node.js
 
+## Installation ✒️
+_Install npm in each folder (frontend & backend) once you're in the right route_
+```
+npm i
+```
+_Run the backend with_
+```
+npm run dev
+```
+_Run the frontend with_
+```
+npm run start
+```
 
-## Autores ✒️
+
+## Authors ✒️
 
 * **Santiago Alvarez Olivera**- [SantiagoAlvarze22](https://github.com/SantiagoAlvarze22)
 
 
 ---
-⌨️ con ❤️ por [SantiagoAlvarze22](https://github.com/SantiagoAlvarze22) 😊
+⌨️ With ❤️ by [SantiagoAlvarze22](https://github.com/SantiagoAlvarze22) 😊
